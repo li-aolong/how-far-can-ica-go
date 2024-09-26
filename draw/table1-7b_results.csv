@@ -1,0 +1,9 @@
+Format, System, Example, Helpfulness, Clarity, Factuality, Depth, Engagement, Safe
+-, -, -, 1.61, 2.38, 2.21, 1.43, 1.70, 2.12
+-, -, Urial, 4.36, 4.69, 4.12, 3.78, 4.53, 4.17
+-, Urial, -, 3.11, 4.04, 3.69, 2.14, 2.68, 2.92
+-, Urial, Urial, 4.25, 4.58, 4.03, 3.78, 4.42, 5.00
+Markdown, -, -, 2.68, 3.77, 3.59, 1.78, 2.32, 1.47
+Markdown, -, Urial, 4.29, 4.59, 3.97, 3.8, 4.42, 4.75
+Markdown, Urial, -, 3.34, 3.87, 3.61, 2.50, 3.00, 3.19
+Markdown, Urial, Urial, 4.05, 4.36, 3.86, 3.68, 4.23, 4.97
