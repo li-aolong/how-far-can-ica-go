@@ -1,4 +1,4 @@
-# how-far-can-ica-go
+# How Far Can In-Context Alignment Go? Exploring the State of In-Context Alignment
  EMNLP 2024 Findings: [_How Far Can In-Context Alignment Go? Exploring the State of In-Context Alignment_](https://arxiv.org/abs/2406.11474)
 
 ## Introduction
